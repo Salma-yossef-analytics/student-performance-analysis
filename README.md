@@ -38,6 +38,7 @@ Visualization: bar plot comparing mean scores by lunch category
 
 This suggests a real association between family socioeconomic status and student academic outcomes — a finding consistent with broader educational research.
 
+https://github.com/Salma-yossef-analytics/student-performance-analysis/blob/main/barplot.png
 
 🧠 Interpretation
 

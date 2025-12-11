@@ -4,7 +4,9 @@ Statistical analysis of student performance to explore how socioeconomic factors
 
 This project explores whether students’ socioeconomic status has a measurable impact on their academic performance.
 
-Using the Student Performance dataset, I examined the variable lunch as a proxy for family income:
+Using the Student Performance dataset from kaggle https://www.kaggle.com/datasets/saadaliyaseen/exploring-student-achievement-trends  
+
+I examined the variable lunch as a proxy for family income:
 
 Free/Reduced lunch → lower-income households
 

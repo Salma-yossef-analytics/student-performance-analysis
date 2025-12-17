@@ -59,3 +59,8 @@ Psychological and social stability
 Tags
 
 Data Analysis Statistics T-Test Python Education Insights Data Visualization
+
+## Data Quality Assessment
+A dedicated data quality evaluation was conducted prior to analysis.
+See details in `data_quality/README.md`.
+
